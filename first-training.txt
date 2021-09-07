@@ -1,0 +1,30 @@
+	Local Repo    								   Remote Repo(Github)
+	parent branch->master							   parent-branch->main
+										  Project IBM--->
+											10 folders->1000files.
+	multiple emp
+	1  1  1  1  1
+	
+	1. link to the remote repo// remain to be shown
+	2. git pull ""	
+
+10 folders->1000files.
+main branch --->| master 
+related sub branch 
+all commit logs  --> logo-rotate-when-page-load-> git branch -b logoRotate->file rotate.js .... merge into the master branch  
+git push orgin="link" master/main.
+rotate.js-> git fetch // git pull 
+rotate.js -> changes ->commit ->push.
+cycle will go on till the product end. 
+
+config 
+local system remote
+
+local file (unstaged) - staged area - commit -> repo added push 
+			git add . 	git commit -m "message"
+
+
+	
+
+	
+	
